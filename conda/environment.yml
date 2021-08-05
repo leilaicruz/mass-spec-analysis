@@ -1,0 +1,11 @@
+name: mass-spec
+channels:
+  - conda-forge
+  - bioconda
+  - agbiome
+  - defaults
+- pip:
+    - matplotlib 
+    - scipy
+    - pandas
+    - numpy 
